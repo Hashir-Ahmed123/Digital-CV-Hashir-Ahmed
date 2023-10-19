@@ -1,0 +1,33 @@
+@import url(https://fonts.google.com/specimen/Ysabeau+Office);
+
+* {
+    font-family: Ysabeau Office;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #059ff8 !important;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
